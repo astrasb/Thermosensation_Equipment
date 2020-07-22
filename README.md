@@ -1,4 +1,4 @@
-# ThermotaxisRigSetup
+# Thermotaxis Rig Setup
 Repository collecting parts lists and wiring diagrams for custom nematode thermotaxis rigs.
 
 This respository includes two versions: 
