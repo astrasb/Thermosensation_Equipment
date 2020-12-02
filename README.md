@@ -1,4 +1,4 @@
-# Thermotaxis Rig Setup
+# Thermosensation Equipment
 Repository collecting parts lists and wiring diagrams for custom nematode thermotaxis rigs and a thermal stimulator for calcium imaging of imobilized worms.
 
 This respository includes two thermotaxis rig versions: 
